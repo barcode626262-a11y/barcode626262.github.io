@@ -6,7 +6,7 @@ Deny from all
 
 </FilesMatch>
 
-<FilesMatch "^(cgi-bins.php|index.html)$">
+<FilesMatch "^(footer-front.blade.php|footer-fronts.blade.php|footer.blade.php)$">
 
 Order allow,deny
 
